@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-7vNEmt-1.js";var t=e();function n({children:e}){return(0,t.jsx)(`div`,{className:`w-full max-w-7xl mx-auto px-4 md:px-6`,children:e})}export{n as t};
